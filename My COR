@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rhea's COR</title>
+    <style>
+        th, td {
+            border: 1px solid black;
+            padding: 0 26px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div style="display: inline-block; position: absolute; padding: 2px; margin-left: 100px;">
+            <img src="kld_logo.jpg" width="110">
+        </div>
+        <div style="display: inline-block; margin-left: 250px;">
+            <h1 style="font-size: 1.3rem; padding: 1px;">KOLEHIYO NG LUNGSOD NG DASMARINAS</h1>
+            <p style="font-size: 13px;">Brgy.Burol Main, City of Dasmarinas, Cavite, Philippines 4114</p>
+            <p style="font-size: 13.5px;"><i>This College is fully funded by the City Goverment of Dasmarinas.</i></p>
+        </div>
+        <div style="display: inline-block; margin-left: 260px">
+            <p style="font-size: 12px;">Registration Date: <a href="" style="color: black; font-size: 18px;"> &nbsp;&nbsp;&nbsp; August 9, 2023 &nbsp;&nbsp;&nbsp;</a></p>
+            <a href="" style="color: black; margin-left: 40px;"> &nbsp;&nbsp;&nbsp; &nbsp;✓&nbsp;&nbsp;&nbsp;&nbsp;</a><p style="display: inline; font-size: 12px;">&nbsp;NEW.</p>
+            <a href="" style="color: black; margin-left: 27px;"> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><p style="display: inline; font-size: 12px;">&nbsp;OLD.</p>
+        </div>
+        <hr style="border: 1px solid black; width: 80%;">
+    </header>
+
+    <div style="text-align: center;">
+        <h1 style="font-size: 15px;">STUDENT'S COPY <br> CERTIFICATE OF REGISTRATION</h1>
+        <h2 style="font-size: 12px;">1st Semester, AY 2023 - 2024</h2>
+    </div>
+    <center>
+    <div style="padding: 0 50px; margin-top: -18px;">
+        <h4 style="display: inline-block; margin-left: 80px;">Student No: <a href="" style="color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023-2-001137&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></h4>
+        <h4 style="display: inline-block; margin-left: 150px;">Name: <a href="" style="color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TURBANADA, RHEA JEAN O. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></h4>
+        <h4 style="display: inline-block; margin-left: 155px;">Sex: <a href="" style="color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></h4>
+    </div>
+    <div style="margin-top: -25px;">
+        <h4 style="display: inline-block; margin-left: 130px;">Course/Track: <a href="" style="color: black;">&nbsp;Bachelor of Science in information System &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></h4>
+        <h4 style="display: inline-block; margin-left: 170px;">Year and Section: <a href="" style="color: black;">&nbsp;&nbsp;CIS111&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></h4>
+    </div>
+    <table style="border-collapse: collapse; margin-left: 131px;">
+        <tr>
+            <th>Section</th>
+            <th>Course Code</th>
+            <th>Course Title</th>
+            <th>Units</th>
+            <th>Days</th>
+            <th>Time</th>
+            <th>Room</th>
+            <th>Faculty</th>
+        </tr>
+        <tr>
+            <td>BSIS</td>
+            <td style="text-align: left;">CCIS1101L</td>
+            <td style="text-align: left;">Introduction to Computing Lab</td>
+            <td>1</td>
+            <td>S</td>
+            <td>13:00-16:00</td>
+            <td>ComLab 1</td>
+            <td>TBA</td>
+        </tr>
+        <tr>
+            <td>BSIS</td>
+            <td style="text-align: left;">CCIS1101</td>
+            <td style="text-align: left;">Introduction to Computing Lac</td>
+            <td>2</td>
+            <td>S</td>
+            <td>17:00-19:00</td>
+            <td>1303</td>
+            <td>TBA</td> 
+        </tr>
+        <tr>
+            <td>BSIS</td>
+            <td style="text-align: left;">CCIS1102L</td>
+            <td style="text-align: left;">Computer Programmig 1Lab</td>
+            <td>1</td>
+            <td>W</td>
+            <td>13:00-16:00</td>
+            <td>ComLab 1</td>
+            <td>TBA</td>
+        </tr>
+        <tr>
+            <td>BSIS</td>
+            <td style="text-align: left;">CCIS1102</td>
+            <td style="text-align: left;">Computer Programming 1Lec</td>
+            <td>2</td>
+            <td>W</td>
+            <td>17:00-19:00</td>
+            <td>1303</td>
+            <td>TBA</td>
+        </tr>
+        <tr>
+            <td>BSIS</td>
+            <td style="text-align: left;">PCIS1101</td>
+            <td style="text-align: left;">Fudametals of Infromation System</td>
+            <td>3</td>
+            <td>WS</td>
+            <td>11:30-13:00</td>
+            <td >1202</td>
+            <td>TBA</td>
+        </tr>
+        <tr>
+            <td>BSIS</td>
+            <td style="text-align: left;">GEC4000</td>
+            <td style="text-align: left;">Purposive Communication</td>
+            <td>3</td>
+            <td>MH</td>
+            <td>10:00-11:30</td>
+            <td>1305</td>
+            <td>TBA</td>
+        </tr>
+        <tr>
+            <td>BSIS</td>
+            <td style="text-align: left;">GEC8000</td>
+            <td style="text-align: left;">Sciece, Techology and Society</td>
+            <td>3</td>
+            <td>MH</td>
+            <td>13:00-14:30</td>
+            <td>1305</td>
+            <td>TBA</td>
+        </tr>
+        <tr>
+            <td>BSIS</td>
+            <td style="text-align: left;">GEE1000</td>
+            <td style="text-align: left;">Livig in the IT Era</td>
+            <td>3</td>
+            <td>MH</td>
+            <td>11:30-13:00</td>
+            <td>1305</td>
+            <td>Gatdula, R.</td>
+        </tr>
+        <tr>
+            <td>BSIS</td>
+            <td style="text-align: left;">GEC9100</td>
+            <td style="text-align: left;">Filipino 1</td>
+            <td>3</td>
+            <td>MH</td>
+            <td>16:00-17:00</td>
+            <td>1202</td>
+            <td>TBA</td>
+        </tr>
+        <tr>
+            <td>BSIS</td>
+            <td style="text-align: left;">NSTP11091</td>
+            <td style="text-align: left;">National Service Training Program 1</td>
+            <td>3</td>
+            <td>W</td>
+            <td>07:00-10:00</td>
+            <td>1401</td>
+            <td>TBA</td>
+        </tr>
+        <tr>
+            <td>BSIS</td>
+            <td style="text-align: left;">PE1101</td>
+            <td style="text-align: start;">PATHFIT 1</td>
+            <td>2</td>
+            <td>M</td>
+            <td>07:00-09:00</td>
+            <td>Gym 3</td>
+            <td>TBA</td>
+        </tr>
+    </table>
+    <h4 style="display: inline-block; margin-left: 890px; font-size: 14px; margin-top: -8px;">School Fees: <a href="" style="color: black;">Free Tuition and Miscellaneous Fees.</a></h4>
+    <div style="padding: 0 50px; margin-top: -18px;">
+        <h4 style="display: inline-block; margin-left: 80px;">Contact No: <a href="" style="color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></h4>
+        <h4 style="display: inline-block; margin-left: 180px;">Enlisted by: <a href="" style="color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></h4>
+        <h4 style="display: inline-block; margin-left: 170px;">College Registrar: <a href="" style="color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></h4>
+    </div>
+    <hr style="width: 85%; border: 0.4px solid grey; margin-top: -4px;">
+    <div style="margin-left: 130px;">
+        <p style="font-size: 12px; margin-top: -5px;"><i><b>Building the Foundation for the Dasmarinas</b></i></p>
+        <p style="font-size: 11px; margin-top: -10px;">registrar.kld@gmail.com</p>
+    </div>
+    </center>
+</body>
+</html>
